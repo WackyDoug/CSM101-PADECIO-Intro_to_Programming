@@ -13,7 +13,7 @@ public class Activity11_2PADECIO {
 		String userInput = sc.nextLine();
 		
 		int found = 0;
-		for (int i = 1; i < names.length; i++) {
+		for (int i = 0; i < names.length; i++) {
 			
 			if (userInput.equalsIgnoreCase(names[i])) {
 				found = 1;
