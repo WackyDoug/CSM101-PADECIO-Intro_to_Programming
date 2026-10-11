@@ -2,6 +2,7 @@ package PadecioCSM101.HomeCode;
 
 import java.util.Scanner;
 
+
 public class PracticeCode {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
